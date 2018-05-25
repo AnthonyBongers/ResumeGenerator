@@ -48,7 +48,7 @@ jobs =
 education = 
   [ ( "Course", "Game Development at Algonquin College (2008 - 2011)" )
   , ( "Diploma", "Ontario Advanced Diploma" )
-  , ( "Awards", "Dean’s Honour List" )
+  , ( "Awards", "Dean's Honour List" )
   ]
 
 renderContactDetails = 
