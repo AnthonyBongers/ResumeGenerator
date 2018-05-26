@@ -11,3 +11,5 @@ To Do:
 - Fill out data model for more recent items
 - Output file from script
 - Optimize output by setting class names for shared styles
+
+View output.png to see a rendering of the output.
